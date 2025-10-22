@@ -3,15 +3,17 @@ title: "About Me"
 about:
   id: me
   template: broadside
-  image: nora.jpeg
+  image:  img/nora.png
 ---
 
 :::{#me}
 
 ## Goals
 To get thought this week!
+
 ## Education
 Current PhD Student in the Ernakovich lab at UNH
+
 ## Experience
 Five years of consulting work based in Anchorage, AK. 
 :::
